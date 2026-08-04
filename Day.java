@@ -20,8 +20,14 @@ class Day {
 		}
 		return num + ": " + output;
 	}
+	public ArrayList<String> getArrayEvents() {
+		return events;
+	}
 	public int getNum() {
 		return num;
+	}
+	public void setNum(int n) {
+		num =n;
 	}
 	public void addEvent(String x) {
 		if (!x.equals("")) {
