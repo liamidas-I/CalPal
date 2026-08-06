@@ -14,22 +14,24 @@ Username: KingsOfLiam
 Password: Use_somebody123
 
 ## Save File
-The name of the txt file in the same folder as the program serves as the Username of an "account". The first line should be the password. In the case of the guest, it has no save, therefore no txt file and is all within the code of CalPal.java. 
+The name of the txt file in the same folder as the program serves as the Username of an "account". The first line should be the password. In the case of the guest, it has no save, therefore no txt file and is all within the code of CalPal.java.  
+
+This is an example of what the save file could look like.
   
-`Use_somebody123`
-`MONTH:June:1:30`
-`EVENT:11:Last day of school`
-`EVENT:19:Leave for Europe Trip 2026`
-`EVENT:23:Arrive at Grandmas`
-`EVENT:25:SAT Prep`
-`EVENT:26:Leave for Scotland`
-`RECURRING:7:4:Church`
-`RECURRING:2:3:Football Practice`
-`MONTH:July:6:31`
-`EVENT:2:Wild Camping at Glen Coe`
-`EVENT:11:Frisbee in park`
-`EVENT:25:Visit cousins`
-`RECURRING:12:2:Church`
+`Use_somebody123`  
+`MONTH:June:1:30`  
+`EVENT:11:Last day of school`  
+`EVENT:19:Leave for Europe Trip 2026`  
+`EVENT:23:Arrive at Grandmas`  
+`EVENT:25:SAT Prep`  
+`EVENT:26:Leave for Scotland`   
+`RECURRING:7:4:Church`  
+`RECURRING:2:3:Football Practice`  
+`MONTH:July:6:31`  
+`EVENT:2:Wild Camping at Glen Coe`  
+`EVENT:11:Frisbee in park`  
+`EVENT:25:Visit cousins`  
+`RECURRING:12:2:Church`  
   
 All of the following is written automatically to the txt file upon saving and quiting.  
   
