@@ -13,6 +13,9 @@ Username: KingsOfLiam
 
 Password: Use_somebody123
 
+Currently, in order for someone else to use this they would have to manually create a save file with a UN and PW that they create, along with a default month, as described later. This was made purposely to be lik this, and I imagine it as a sort of pay wall or way that 1 place could one day contorl who could use this proram. Of cousrse though, this was made just for fun and to learn about java. I keep this on my desktop and like to keep it updated with my events. This works well with me. This password and username dont show a superiority complex just are a word play of a band I like.
+
+
 ## Save File
 The name of the txt file in the same folder as the program serves as the Username of an "account". The first line should be the password. In the case of the guest, it has no save, therefore no txt file and is all within the code of CalPal.java.  
 
