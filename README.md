@@ -53,19 +53,3 @@ The most common element goes like `EVENT:11:Last day of school`. It is simply th
 Denoted by `RECURRING:7:4:Church`.  
 Here the first number, in this case 7. is the date of the first occurence.  
 To repeat, the program uses the second number. This means it will repeat for this many weeks. It always happens on the same day of the week, once per week.
-
-`Use_somebody123
-MONTH:June:1:30
-EVENT:11:Last day of school
-EVENT:19:Leave for Europe Trip 2026
-EVENT:23:Arrive at Grandmas
-EVENT:25:SAT Prep
-EVENT:26:Leave for Scotland
-RECURRING:7:4:Church
-RECURRING:2:3:Football Practice
-MONTH:July:6:31
-EVENT:2:Wild Camping at Glen Coe
-EVENT:11:Frisbee in park
-EVENT:25:Visit cousins
-RECURRING:12:2:Church`
-
